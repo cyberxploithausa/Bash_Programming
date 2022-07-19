@@ -1,6 +1,5 @@
 # Bash_programming
-Here I showcase bash scripting tutorials
-In this repo we are to show how bash can be use
+Here I showcase bash scripting tutorials. In this repo we will teach you how bash can be use
 To script out our workflow.
 Bash can be used to automate a lot of things very easily
 
